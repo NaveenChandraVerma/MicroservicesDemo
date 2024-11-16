@@ -1,0 +1,5 @@
+#Change the file name to application.yml to make it default configuration files so ell the services will be using it by default
+eureka:
+  client:
+    fetch-registry: false
+    register-with-eureka: false
