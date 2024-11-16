@@ -1,14 +1,14 @@
 
-management:
-  endpoints:
-    web:
-      exposure:
-        include: "*"
-  info:
-    env:
-      enabled: true
+# management:
+#   endpoints:
+#     web:
+#       exposure:
+#         include: "*"
+#   info:
+#     env:
+#       enabled: true
   
-info:
-  application:
-    name: Actuator info
-    description: Hello!! This is user details microservice.
+# info:
+#   application:
+#     name: Actuator info
+#     description: Hello!! This is user details microservice.
