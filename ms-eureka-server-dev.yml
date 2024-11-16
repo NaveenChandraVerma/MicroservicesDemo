@@ -2,3 +2,4 @@ eureka:
   client:
     fetch-registry: false
     register-with-eureka: false
+    Hello: Hi
