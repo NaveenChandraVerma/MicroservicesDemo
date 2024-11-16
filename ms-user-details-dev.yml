@@ -11,4 +11,4 @@ management:
 info:
   application:
     name: Actuator info
-    description: Hello I'm sts app
+    description: Hello!! This is user details microservice.
