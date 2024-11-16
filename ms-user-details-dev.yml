@@ -11,4 +11,6 @@ management:
 info:
   application:
     name: Actuator info
-    description: Hello!! This is user details microservice. Ji kkkkkkkkkkkkkkk
+    description: Hello!! This is user details microservice.
+message:
+  foo: hello
