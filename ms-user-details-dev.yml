@@ -13,4 +13,4 @@ info:
     name: Actuator info
     description: Hello!! This is user details microservice.
 message:
-  foo: Hello! I'm getting changed
+  foo: Hello! I'm getting changed. Yes that's awesome!!
